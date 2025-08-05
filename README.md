@@ -70,4 +70,4 @@ The entire training process, including the training loss and validation accuracy
 
 ## Inference
 
-After the training process is complete, the best saved model (the one with the highest validation accuracy) is loaded. This model is then used for inference on the test set. The test set, being completely unseen by the model during training and validation, provides the most reliable measure of the model's generalization performance. The final test accuracy is calculated to assess how well the model is expected to perform in a real-world application.
+After the training process is complete, the best saved model (the one with the highest validation accuracy) is loaded. This model is then used for inference on the test set. The test set, being completely unseen by the model during training and validation, provides the most reliable measure of the model's generalization performance. The final test accuracy is calculated to assess how well the model is expected to perform in a real-world application. :)
